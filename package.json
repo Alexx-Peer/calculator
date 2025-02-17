@@ -1,5 +1,5 @@
 {
-  "name": "@yourname/calculator",
+  "name": "@alexx-peer/calculator",
   "version": "1.0.0",
   "description": "A simple command-line calculator that performs basic arithmetic operations.",
   "main": "calculator.js",
@@ -27,14 +27,15 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "author": "Your Name",
+  "author": "Alexx Peer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/calculator.git"
+    "url": "git+https://github.com/Alexx-Peer/calculator.git"
   },
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.19.0",
+    "@yourname/calculator": "github:Alexx-Peer/calculator",
     "eslint": "^9.19.0",
     "globals": "^15.14.0",
     "vitest": "^3.0.5"
